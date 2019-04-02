@@ -11,17 +11,6 @@
 ----
 ### **Reference Shortcut -** http://wiki.pgblitz.com | Discord ( !wiki )
 ----
-_**Table of Contents**_
-
-1. [PG YouTube](#1-pg-youtube)
-2. [Project Statement](#2-project-statement)
-3. [Functional Use](#3-functional-use)
-4. [Testimonials](#4-testimonials)
-5. [Recommended Reading](#5-recommended-reading)
-6. [Having Issues?](#6-having-issues)
-7. [Conclusion](#7-conclusion)
-
-----
 
 ## 1. PG YouTube
 
